@@ -1814,9 +1814,7 @@ gary = Trainer('Gary',0,0,0,0,0,0)
 youngster1 = Trainer('Youngster Joey', Pidgey(6), Nidoran(7),0,0,0,0)
 
 
-###############
-# Dance Floor #
-###############
+
 """
 # Wild encounter tester
 player.poke1 = Pikachu(10)
